@@ -1,7 +1,15 @@
 import React from "react"
+import Features from "../components/Features/Features"
+import Hero from "../components/Hero/Hero"
+import Layout from "../components/Layout/Layout"
 
-export default function Home() {
-  return <div>
-    <div className="card shadow m-2 p-2 text-primary">Test <div className="btn btn-warning">OK</div></div>
-    </div>
+const Index = () => {
+  return (
+    <Layout>
+      <Hero/>
+      <Features/>
+    </Layout>
+  )
 }
+
+export default Index
