@@ -40,8 +40,8 @@ const Header = () => {
               </Link>
             </li>
             <li class="btn text-light text-decoration-none">
-              <Link class="text-warning text-decoration-none" to="/blog">
-                Blog
+              <Link class="text-light text-decoration-none" to="/features">
+                Features
               </Link>
               </li>
             {/* <li class="nav-item dropdown">

@@ -5,11 +5,11 @@ import Image from "../Images/Images"
 
 const Items = [
   {
-    // image: "Aditi Singh",
-    // name: "Aditi Singh",
-    // facebook: "https://www.facebook.com",
-    // instagram: "https://www.instagram.com",
-    // linkedin: "https://www.linkedin.com",
+    image: "Aditi Singh",
+    name: "Aditi Singh",
+    facebook: "https://www.facebook.com",
+    instagram: "https://www.instagram.com",
+    linkedin: "https://www.linkedin.com",
   },
   {
     image: "Aishal Khan",
@@ -19,11 +19,11 @@ const Items = [
     linkedin: "https://www.linkedin.com",
   },
   {
-    // image: "Laiba Afsar",
-    // name: "Laiba Afsar",
-    // facebook: "https://www.facebook.com",
-    // instagram: "https://www.instagram.com",
-    // linkedin: "https://www.linkedin.com",
+     image: "Laiba Afsar",
+     name: "Laiba Afsar",
+     facebook: "https://www.facebook.com",
+     instagram: "https://www.instagram.com",
+     linkedin: "https://www.linkedin.com",
   },
   {
     image: "Shambhavi",
