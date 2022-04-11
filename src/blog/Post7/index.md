@@ -1,6 +1,6 @@
 ---
 title: "Languages"
-date: "04-04-24"
+date: "7th March 2022"
 author: ""
 description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
 image: "Card7.jpg"

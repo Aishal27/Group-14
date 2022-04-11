@@ -41,8 +41,8 @@ export default function About() {
           <p class="lead">Under the tutelage of the Shastri family, Banasthali Vidyapith has grown from a school catering to only 6 students 
                  to the only residential women institute in the country that provides education to girls from the pre-primary stage
                   up to the Doctoral level.<h6 className="text-warning">( Date-Line of growth of Banasthali Vidyapith )</h6>Banasthali 
-                  Vidyapith has been accredited by <h6 className="text-warning">National Assessment and Accreditation Council (NAAC) 
-                  with ‘A’ Grade (Five star Rating).</h6></p>
+                  Vidyapith has been accredited by <h6 className="text-warning">Accredited with the highest possible grade 'A++' with 
+                  CGPA 3.63/4.00 by NAAC</h6></p>
 
                   <h2 class="display-10 fw-bold lh-1 mb-3 ">Vision And Mission</h2>  
                   <p class="lead">Banasthali Vidyapith has been conceptualized to materialize the ethos of nation-building and 
