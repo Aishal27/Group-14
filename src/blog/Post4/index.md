@@ -53,3 +53,12 @@ A PC is provided with Internet in every hostel room for PG students currently re
 <br />
 
 #### <h6 className="text-info">One can see that all the hostels are named after 'Shanta bai' and students of the Banasthali are treated as the daughters of the University.</h6>
+
+#### Map
+![This is an image](../../images/Card9.6.jpg)
+
+<br />
+
+|![This is an image](../../images/GH1.jpg)|![This is an image](../../images/GH3.jpg)|![This is an image](../../images/GH2.jpg)|
+|:----------------------------------------|:----------------------------------------|:----------------------------------------|
+

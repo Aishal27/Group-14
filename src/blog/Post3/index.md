@@ -80,7 +80,7 @@ The Bhel Puri is the famous street food of India which is made up the ingredient
 #### ** 15. Mirchi Vada**
 The another type of chat is mirchi vada. The mirchi vada is the bhajiya of mirchi in which mirchi is dipped in the besan flour and deep fried. Then the mirchi vada chaat is presented to the consumer by the canteen. In a plate, the vada is kept and the khati-mithi chutney is put up on it. Then it is served hot.
 
-![This is an image](../../images/Crad3.15.jpg)
+![This is an image](../../images/Card3.15.jpg)
 
 #### ** 16. Khasta**
 Khasta is the snack which is available in the Banasthali. The khasta is made up of the meda roti and it is deep fried. The dish can also be converted into the khasta chat in which the desi tadka is added. Then it is served with the garnishing of sev namkeen up on it.
@@ -90,7 +90,7 @@ Khasta is the snack which is available in the Banasthali. The khasta is made up 
 #### ** 17. Aloo Chaap**
 Aloo Chap is the type famous Indian street food which is very famous in the campus of Banasthali. The dish is served like a aloo tikki is crushed, and the curd is spread over it and some masalas with khati mithi chutney. The dish is very much popular in because girls love chat so much.
 
-![This is an image](../../images/Crad3.17.jpg)
+![This is an image](../../images/Card3.17.jpg)
 
 #### ** 18. Masala Dosa**
 The Masala Dosa of the Mukteshwari Canteen is very popular in the Banasthali. The dish is made up of the ingredients like rice flour and aloo  masala. The dosa is served with sambhar and nariyal ki chutney. The students come from there hostels to eat this special dish of this canteen.

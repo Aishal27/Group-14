@@ -1,10 +1,15 @@
 import React from "react"
 import Layout from "../components/Layout/Layout"
 import Team from "../components/Team/Team"
-
+import Image from "../components/Images/Images"
 export default function About() {
   return (
     <Layout>
+      <Image 
+             className="d-block mx-lg-auto img-fluid"
+             filename={"AboutPic1.jpg"}
+             alt="1"
+             />
        <Team/>
         <h1 class="display-10 fw-bold lh-1 mb-3 text-center text-success">About Us </h1>
         <div class="container col-xxl-20 px-2 py-2">
@@ -64,6 +69,7 @@ export default function About() {
                     of the Vidyapith’s  educational programme. Simple living, self-reliance and khadi wearing are hallmarks of life 
                     at Banasthali.</p>
                     </div>
+                   
     </Layout>
   )
 }

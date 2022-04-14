@@ -44,6 +44,11 @@ const Header = () => {
                 Features
               </Link>
               </li>
+              <li class="btn text-light text-decoration-none">
+              <Link class="text-light text-decoration-none" to="/chatbox">
+                Sr-Jr Conversation
+              </Link>
+              </li>
             {/* <li class="nav-item dropdown">
               <a
                 class="nav-link dropdown-toggle"
