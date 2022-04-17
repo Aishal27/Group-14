@@ -1,5 +1,5 @@
 ---
-title: "Hostel"
+title: "Hostels"
 date: "4th March 2022"
 author: "Best Of Hostel"
 description: "Banasthali University is a residential institution.All rooms are well furnished with basic amenities."

@@ -325,7 +325,7 @@ The mission is to provide education, with a commitment to high quality, value ba
 [More Information](http://www.banasthali.org/banasthali/wcms/en/home/lower-menu/faculties/fine-arts/dept_of_texttile_and_design/index.html)
 </div>
 
-
+\
 <div className="card card-body shadow mb-4">
 <h4 className="text-center border-bottom text-danger">Department Of Visual Arts</h4>
 
