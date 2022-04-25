@@ -45,11 +45,9 @@ const Header = () => {
                 Features
               </Link>
               </li>
-              
-              <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+<button type="button" class="btn btn-primary  me-1" data-bs-toggle="modal" data-bs-target="#exampleModal">
  Announcement Board 📢
 </button>
-
 
 <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog">
@@ -60,13 +58,81 @@ const Header = () => {
       </div>
       <div class="modal-body">
       <ul>
-      
-      {/* <li> 
-          Message 2
-          </li>  */}
+     
+          <li> 
+          New Accouncements On The Way  🔔
+          </li> 
+<br />
+         <li>
+<p>Qualys Recruitment 2022 | Technical Support Engineer | Pune</p>
+<Image 
+             className="d-block mx-lg-auto img-fluid"
+             style={{
+              margin: "0 auto",
+              height: "200px",
+              width: "500px",
+             }}
+             filename={"Accouncement6.png"}
+             alt="1"
+             />
+<div class="nav-item mb-2"><Link to="https://bit.ly/3k8pz1i" class="nav-link p-0 text-warning">Apply for Qualys:</Link></div>
+<p>Apply before link expires.</p>
+
+<p>Are you beginner in coding ?</p>
+<div class="nav-item mb-2"><Link to="http://codingclub.tech/" class="nav-link p-0 text-success">Visit:</Link></div>
+
+<p>Coding Club India</p>
+<p>Learn.Inspire.Grow.</p>
+
+         </li>
+<br />
+          <li> 
+<p>Altisource Recruitment 2022 | Software Engineer | Bangalore</p>
+<Image 
+             className="d-block mx-lg-auto img-fluid"
+             style={{
+              margin: "0 auto",
+              height: "200px",
+              width: "200px",
+             }}
+             filename={"Accouncement5.png"}
+             alt="1"
+             />
+<div class="nav-item mb-2"><Link to="https://bit.ly/3MGx5Np" class="nav-link p-0 text-warning">Apply for Altisource:</Link></div>
+<p>Apply before link expires.</p>
+
+<p>Are you beginner in coding ?</p>
+<div class="nav-item mb-2"><Link to="http://codingclub.tech/" class="nav-link p-0 text-success">Visit:</Link></div>
+
+<p>Starting from 25th April.</p>
+
+<p>Coding Club India</p>
+<p>Learn.Inspire.Grow.</p>
+          </li> 
+<br />
 
       <li> 
-      New Accouncements On The Way  🔔
+<p>Epam Systems Off Campus Drive 2022 : Hiring Freshers & Experienced With 6 LPA Package</p>
+<Image 
+             className="d-block mx-lg-auto img-fluid"
+             style={{
+              margin: "0 auto",
+              height: "200px",
+              width: "300px",
+             }}
+             filename={"Accouncement4.png"}
+             alt="1"
+             />
+<div class="nav-item mb-2"><Link to="https://bit.ly/3im2zLu" class="nav-link p-0 text-warning">Apply for Epam:</Link></div>
+<p>Apply before link expires.</p>
+
+<p>Are you beginner in coding ?</p>
+<div class="nav-item mb-2"><Link to="http://codingclub.tech/" class="nav-link p-0 text-success">Visit:</Link></div>
+
+<p>Starting from 25th April.</p>
+
+<p>Coding Club India</p>
+<p>Learn.Inspire.Grow.</p>
           </li> 
 <br />
       <li> 
@@ -144,7 +210,7 @@ get to know it all, one step at a time.✨</p>
     </div>
   </div>
 </div> 
-             
+
           </ul>
           <form>
             <input

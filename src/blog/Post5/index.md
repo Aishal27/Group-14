@@ -108,3 +108,112 @@ Q. When will I get my call letter from Banasthali University?
 <p>Anyways, if your course admission gateway is through entrance exam held by The University. Then on the basis of 60% weight-age of your result and 40% weight-age of previous course merit , University will send you a call letter before 25 th June maximum for 1st call of admission. If you don’t get a call then relax and chillax , keep your other options open; but yeah maybe for 2nd and 3rd waiting list calls, you will get a call letter or admission phone call from The Univ. administration to reach the Admission Office before assigned date (this date of waiting list , may go upto mid-july).</p>
 </div>
 </div>
+
+<div className="card card-body shadow mb-4">
+Q. What is the medium of instruction?
+<div className="text-primary">A. Medium of instruction in school education is mainly Hindi. However we cater to the need of students who want to study in English medium by providing bilingual system - Instructions, Books and Question Papers are in English as well as Hindi. In Higher Education both English and Hindi are used as medium of instruction
+</div>
+</div>
+
+
+<div className="card card-body shadow mb-4">
+Q. Does Banasthali offer distance learning program?
+<div className="text-primary">A. 	
+Banasthali Vidyapith does not offer any program under distance learning.
+</div>
+</div>
+
+
+<div className="card card-body shadow mb-4">
+Q. Does Banasthali Vidyapith provide Scholarship?
+<div className="text-primary">A. Yes, there are many schemes helping students financially such as scholarships, for details please see  Financial Assistance.
+</div>
+</div>
+
+
+<div className="card card-body shadow mb-4">
+Q. Can I study courses in Dance/Horse Riding/Gliding & Flying?
+<div className="text-primary">A. Yes, you can if only you are a full time student of a regular course of Banasthali Vidyapith. All part time courses are open only to full time students of Banasthali Vidyapith.
+</div>
+</div>
+
+<div className="card card-body shadow mb-4">
+Q. Does Banasthali have a placement cell?
+<div className="text-primary">A. Yes, Banasthali Vidyapith regularly attracts top Indian and multinational companies’ specially in the field of IT, Management, Biotechnology, Textile Design has a record of almost 100% placement.
+</div>
+</div>
+
+<div className="card card-body shadow mb-4">
+Q. How can I learn Fresco?
+<div className="text-primary">A. The Fresco camp is arranged for all the artists (male/female) in summer vacation (May/June). For details please contact  Dean, Fine Arts.
+</div>
+</div>
+
+<div className="card card-body shadow mb-4">
+Q. Is there any dress code in Banasthali Vidyapith?
+<div className="text-primary">A. Clothes : Two sets of Khadi Uniform, Blazer (Coat). Five sets of other dresses in Khadi only and two sets of sports uniform.
+</div>
+</div>
+
+<div className="card card-body shadow mb-4">
+Q. Are mobile phones allowed in Banasthali Vidyapith?
+<div className="text-primary">A. Clothes : Two sets of Khadi Uniform, Blazer (Coat). Five sets of other dresses in Khadi only and two sets of sports uniform.
+</div>
+</div>
+
+<div className="card card-body shadow mb-4">
+Q. Is there any dress code in Banasthali Vidyapith?
+<div className="text-primary">A. Keeping mobile phones during the teaching hours in Academic Departments is strictly prohibited.
+</div>
+</div>
+
+<div className="card card-body shadow mb-4">
+Q. How many seats are there in Banasthali Vidyapith?
+<div className="text-primary">A. Even if each branch has 100 seats then total would be 700 but the rush in CS/IT increases it to around 900 but there are still a lot of seats available now with the new branches opened recently. Relax, there are more than 1000 seats for B.
+</div>
+</div>
+
+<div className="card card-body shadow mb-4">
+Q. Is Banasthali very strict?
+<div className="text-primary">A. Strictly Disciplined:As a university that imparts higher level education, the university is quite strict with its rule. Maybe that's more because it's an all-women university but that's how it is. The students aren't allowed to cross the boundaries of the university, not even till a stipulated timing in the evening.
+</div>
+</div>
+
+<div className="card card-body shadow mb-4">
+Q. How does one apply?
+<div className="text-primary">A. The admission forms are normally available in the month of February onwards. The admission advertisements appear in the National and Regional Newspapers where all the details are given. You could get the form by sending Rs. 800/- by demand draft to The Secretary, Banasthali Vidyapith or paying cash Rs. 800/- in person and send the duly filled form by the Last Date given in the Admission Notice.Online Submission of application is also possible at the Banasthali Vidyapith's website.
+
+For detail please see the [ADMISSIONS](http://www.banasthali.org/banasthali/admissions/) link of the website.
+</div>
+</div>
+
+<div className="card card-body shadow mb-4">
+Q. How difficult is the exams in Banasthali Vidyapith University?
+<div className="text-primary">A.Exam are difficult in Banasthali . I opted that college because of studies , atmosphere is good. Before attending the counselling process, candidates have to make choice of course and check the counselling date, time and venue from the University website.
+</div>
+</div>
+
+<div className="card card-body shadow mb-4">
+Q. Is Banasthali University good for CSE?
+<div className="text-primary">A. Because Banasthali is a women's university, this does not imply that it is less enjoyable and more strict. Students here have a fair share of fun too. Last but not least, in Banasthali, the CSE and IT departments are highly regarded in comparison to the other branches
+</div>
+</div>
+
+<div className="card card-body shadow mb-4">
+Q. When was BVGFC TONK established?
+<div className="text-primary">A. Banasthali Vidyapith Gliding and Flying Club Tonk [BVGFC TONK] was established in the year 1960.
+</div>
+</div>
+
+<div className="card card-body shadow mb-4">
+Q. What is the syllabus of B.Com in Banasthali Vidyapith entrance exam?
+<div className="text-primary">A. There is no entrance test for undergraduate courses. You will be screened on the basis of your marks in class 10th and 12th. Whereas, generally entrance tests have subjects like quantitative aptitude (mathematics), logical reasoning, data interpretation and English.
+I hope this helps
+</div>
+</div>
+
+<div className="card card-body shadow mb-4">
+Q. Which course is better among BBA and B.Com?
+<div className="text-primary">A. It depends on you, I would suggest you if you are commerce student then continue with that stream if you are not interested in commerce stream then do BBA. If you want to do MBA in finance, marketing, banking and financial services then B.Com Is better course for you. In B.Com, you will study these subject as per your interest so you got an idea about the subject and that will you help in your MBA. Suppose in future you want to do M.Com so BBA graduates are not eligible for M.Com but if you will select B.Com then in future either you can go for M.Com or MBA depends on you.
+</div>
+</div>

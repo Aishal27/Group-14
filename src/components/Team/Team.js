@@ -14,23 +14,23 @@ const Items = [
   {
     image: "Aishal Khan",
     name: "Aishal Khan",
-    facebook: "https://www.facebook.com",
+    facebook: "https://www.facebook.com/aishal.khan.967",
     instagram: "https://www.instagram.com",
-    linkedin: "https://www.linkedin.com",
+    linkedin: "https://www.linkedin.com/in/aishal-khan-806116238",
   },
   {
      image: "Laiba Afsar",
      name: "Laiba Afsar",
      facebook: "https://www.facebook.com",
      instagram: "https://www.instagram.com",
-     linkedin: "https://www.linkedin.com",
+     linkedin: "https://www.linkedin.com/in/laiba-afsar-19a26417b/",
   },
   {
     image: "Shambhavi",
     name: "Shambhavi Shrivastava",
-    facebook: "https://www.facebook.com",
-    instagram: "https://www.instagram.com",
-    linkedin: "https://www.linkedin.com",
+    facebook: "https://www.facebook.com/riya.shambhavi",
+    instagram: "https://instagram.com/riya_verma_2612?igshid=YmMyMTA2M2Y=",
+    linkedin: "https://www.linkedin.com/in/shambhavi-shrivastava-b4917920b",
   },
 ]
 
@@ -47,7 +47,7 @@ const Team = () => {
                   className="d-block mx-lg-auto img-fluid"
                   style={{
                     margin: "0 auto",
-                    height: "200px",
+                    height: "250px",
                     width: "200px",
                   }}
                   filename={`${item.image}.jpg`}

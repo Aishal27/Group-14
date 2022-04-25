@@ -108,9 +108,44 @@ The Pav Bhaji is the popular street food of India. The pav bhaji is made up of t
 ![This is an image](../../images/Card3.20.jpg)
 <br />
 
-# <h1 className="text-center text-warning">Menu Cards</h1>
+<h1 className="card card-body shadow mb-4 bottom-border text-center text-warning">Menu Cards
+<div className="card card-body shadow mb-4">
+<h1 className="text-center text-danger border-bottom">Jaipur Eats</h1>
 
-# <h1 className="text-center text-danger">Mukteshwari</h1>
+![This is an image](../../images/JaipurEats.jpg)
+
+|![This is an image](../../images/JE2.jpg)|![Thus is an image](../../images/JE1.jpg)|![This is an image](../../images/JE3.jpg)|![This is an image](../../images/JE4.jpg)|
+|:------------------------|:-------------------------|:-----------------------|:---------------------|
+
+|![This is an image](../../images/JE5.jpg)|![This is an image](../../images/JE6.jpg)|![This is an image](../../images/JE7.jpg)|
+|:--------------------------|:----------------------------:|---------------------------:|
+</div>
+
+<div className="card card-body shadow mb-4">
+<h1 className="text-center text-info border-bottom">Spicy Bite</h1>
+
+![This is an image](../../images/SpicyBite.jpg)
+
+|![This is an image](../../images/SB1.jpg)|![Thus is an image](../../images/SB2.jpg)|![This is an image](../../images/SB3.jpg)|![This is an image](../../images/SB4.jpg)|
+|:------------------------|:-------------------------|:-----------------------|:---------------------|
+
+|![This is an image](../../images/SB5.jpg)|![Thus is an image](../../images/SB6.jpg)|![This is an image](../../images/SB7.jpg)|![This is an image](../../images/SB8.jpg)|
+|:------------------------|:-------------------------|:-----------------------|:---------------------|
+
+|![This is an image](../../images/SB9.jpg)|![Thus is an image](../../images/SB10.jpg)|![This is an image](../../images/SB11.jpg)|![This is an image](../../images/SB12.jpg)|
+|:------------------------|:-------------------------|:-----------------------|:---------------------|
+
+</div>
+
+<div className="card card-body shadow mb-4">
+<h1 className="text-center text-success border-bottom">Mukteshwari's</h1>
+
+![This is an image](../../images/GC1.jpg)
+
+|![This is an image](../../images/MU1.jpg)|![Thus is an image](../../images/MU2.jpg)|![This is an image](../../images/MU3.jpg)|
+|:------------------------|:-------------------------|:-----------------------|
+</div>
+</h1>
 
 <h2 className="text-info">Facilities</h2>
 
