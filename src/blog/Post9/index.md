@@ -5,7 +5,9 @@ author: "Departments Guide"
 description: "The Department of Education had its origin as the college of Education in 1962(University of Rajasthan)"
 image: "Card9.jpg"
 ---
-## *Departments In Campus*
+
+## _Departments In Campus_
+
 <br />
 <div className="card card-body shadow mb-4">
 <h4 className="text-center border-bottom text-success">Department of BioScience & BioTechnology</h4>
@@ -15,9 +17,8 @@ image: "Card9.jpg"
 <p>Biotechnology is a multi-disciplinary course and various programmes have been developed to meet the growing demand for trained manpower to carry out meaningful biotechnology activity in the country. In the last decade, Banasthali University has emerged as a leading center for education and research in biotechnology and allied disciplines. The programmes are designed to expose the students to recent exciting developments in the area of Biotechnology/ Bioscience/ Microbiology/ Bioinformatics and their application in industry, agriculture and medicine.</p>
 
 [More information](http://www.banasthali.org/banasthali/wcms/en/home/lower-menu/faculties/life-sciences/dep-of-bioscience-biotech/index.html)
-</div> 
 
-
+</div>
 
 <div className="card card-body shadow mb-4">
 <h4 className="text-center border-bottom text-success">Department of Chemical Engineering</h4>
@@ -26,13 +27,12 @@ image: "Card9.jpg"
 
 <p>The department is also planning to propose a postgraduate level M.Tech program in Chemical Engineering. In which students will be trained to assume independent responsibilities laying emphasis again on the country’s current and future requirements in industry, R&D organizations, design firms and academic institutions.  The Department is well equipped for carrying out basic and applied research leading to the degrees of M.Tech.</p>
 
-*<h6 className="text-info">Scope and job prospects</h6>*
+_<h6 className="text-info">Scope and job prospects</h6>_
 Chemical engineers are expected to have employment growth of more than 8 percent over the projections decade, about as fast as the average for all occupations. The most employment growth for chemical engineers will be in service-providing industries such as professional, scientific, and technical services, particularly for research in energy and the developing fields of biotechnology, nanotechnology and environmental awareness.
 
 [More Information](http://www.banasthali.org/banasthali/wcms/en/home/lower-menu/faculties/life-sciences/dep-of-chemical/index.html)
+
 </div>
-
-
 
 <div className="card card-body shadow mb-4">
 <h4 className="text-center border-bottom text-success">Department of Chemistry</h4>
@@ -44,9 +44,8 @@ Chemical engineers are expected to have employment growth of more than 8 percent
 <p>Our postgraduate programme in chemistry has been designed to develop skilled manpower in the field of these disciplines. The high caliber of education which it imparts, prepares the students, on one hand to meet the requirement of the global demand of the trained manpower in research / industries and on the other hand equips them to excel as a new generation professionals to face the challenges of the twenty first century.</p>
 
 [More Information](http://www.banasthali.org/banasthali/wcms/en/home/lower-menu/faculties/life-sciences/dep-of-chemistry/index.html)
+
 </div>
-
-
 
 <div className="card card-body shadow mb-4">
 <h4 className="text-center border-bottom text-danger">Department of Computer Science</h4>
@@ -56,39 +55,39 @@ Chemical engineers are expected to have employment growth of more than 8 percent
 <p>The recent addition of Artech - Dalmia I.T. center with smart classrooms and high end computing facilities (hardware as well as software) has further augmented the activities of the department.The department offers undergraduate and postgraduate programmes in Computer Science, Computer Applications and Information Technology including M.Tech. at Banasthali Vidyapith, Campus.</p>
 
 [More Information](http://www.banasthali.org/banasthali/wcms/en/home/lower-menu/faculties/maths-app-comp-tech/computer_science/index.html)
-</div>
 
+</div>
 
 <div className="card card-body shadow mb-4">
 <h4 className="text-center border-bottom text-warning">Department of Commerce and Management</h4>
 
 ![This is an image](../../images/Card9.2.png)
- 
+
 <p>Vision of Faculty of Management Studies (FMS-WISDOM) at Banasthali Vidyapith is to prepare women for enlightened leadership roles in all walks of life. Institute's mission is to contribute towards development of women leadership that would play active role in society-building, entrepreneurship and management of organizations and institutions in consonance with nation's spiritual and cultural heritage and its own context.</p>
 
 <p>The following represents the five foundational principles or the Panchsiddhanta of WISDOM:</p>
 
->*WISDOM acts as strategic think-ahead forum for women's issues in management of society, organizations and individuals
+> \*WISDOM acts as strategic think-ahead forum for women's issues in management of society, organizations and individuals
 
->*WISDOM facilitates creation of future enlightened leadership among women
+> \*WISDOM facilitates creation of future enlightened leadership among women
 
->*WISDOM trains the young minds for managerial responsibilities and entrepreneurial ventures
+> \*WISDOM trains the young minds for managerial responsibilities and entrepreneurial ventures
 
->*WISDOM conducts action-based research
+> \*WISDOM conducts action-based research
 
->*WISDOM promotes intellectual self-reliance
+> \*WISDOM promotes intellectual self-reliance
 
 <p>In consonance with its foundational principles, the following are the broad objectives of the institute:</p>
 
->1. To train women for managerial positions.
+> 1.  To train women for managerial positions.
 
->2. To train women in entrepreneurial tasks of setting up industry, organizations and institutions
+> 2.  To train women in entrepreneurial tasks of setting up industry, organizations and institutions
 
->3.  To undertake research and consultancy with a view to augment knowledge base keeping in view the specific requirements of women's issue and cultural moorings.
+> 3.  To undertake research and consultancy with a view to augment knowledge base keeping in view the specific requirements of women's issue and cultural moorings.
 
 [More Information](http://banasthali.org/banasthali/wcms/en/home/lower-menu/faculties/management/index.html)
-</div>
 
+</div>
 
 <div className="card card-body shadow mb-4">
 <h4 className="text-center border-bottom text-info">School Of Automation</h4>
@@ -102,15 +101,13 @@ Chemical engineers are expected to have employment growth of more than 8 percent
 <p>The School of automation is equipped with most modern industrial setup procured from global technology giants such as BOSCH, FESTO, KUKA, Siemens, SMC, Mitsubishi, M-TAB and Janatics. The School features sophisticated laboratories which are the requirement of modern day automation including Computer Integrated Manufacturing (CIM) Lab, Advanced robotics, Mechatronics Lab, Hydraulics Lab, Pneumatics Lab, Virtual Lab, e-learning Lab, Programmable Logic Controller (PLC) Lab and Industry 4.0 to name a few.  The School also houses some basic labs like Sensorics Lab, Electrical Machine and Drives Labs. The School was able to attract the companies like Schenider to offer on-line program, scholarships and on campus and off campus placements. The B. Tech. programme has University Industrial Linkage as an integral part its curriculum in which students is pursuing their projects with external organizations. The students graduating from this department are placed in various companies of repute.</p>
 
 [More Information](http://banasthali.org/banasthali/wcms/en/home/lower-menu/faculties/automation/index.html#Teaching_Faculty)
+
 </div>
-
-
 
 <div className="card card-body shadow mb-4">
 <h4 className="text-center border-bottom text-danger">Department Of Education</h4>
 
 <p>The Department of Education had its origin as the college of Education within the Vidyapith in 1962 and was affiliated to the University of Rajasthan. It was the first wholly residential teacher education institute for women, in the whole region. Later on, when the Vidyapith gained the status of a Deemed University in 1983, the college of education got elevated as the Department of Education. The Department of Education and Physical Education were brought together as the Faculty of Education.</p>
-
 
 <p>The department offers 4-Year Integrated Bachelor of Arts Bachelor of Education (B.A. B.Ed.), 4-Year Integrated Bachelor of Science Bachelor of Education (B.Sc. B.Ed.), 2-year Bachelor of Education (B.Ed.), Master of Education (M.Ed.) and Doctor of Philosophy in Education (Ph.D.).</p>
 
@@ -119,8 +116,8 @@ Chemical engineers are expected to have employment growth of more than 8 percent
 <p>The Department of Education upgraded as ‘School of Education' by the Ministry of Human Resource Development, Government of India under its Pandit Madan Mohan Malviya National Mission on Teachers and Teaching scheme in October 2018.</p>
 
 [More Information](http://www.banasthali.org/banasthali/wcms/en/home/lower-menu/faculties/faculty-of-education/dept-of-education/index.html)
-</div>
 
+</div>
 
 <div className="card card-body shadow mb-4">
 <h4 className="text-center border-bottom text-info">Department Of Economics</h4>
@@ -132,8 +129,8 @@ Chemical engineers are expected to have employment growth of more than 8 percent
 <p>Department of Economics organizes an annual Academic Event ‘PRAGATI’ comprising activities such as Debate, Paper presentation, Quiz, Skit etc.</p>
 
 [More Information](http://www.banasthali.org/banasthali/wcms/en/home/lower-menu/faculties/social-science/economics/index.html)
-</div>
 
+</div>
 
 <div className="card card-body shadow mb-4">
 <h4 className="text-center border-bottom text-info">Department Of Journalism and Mass Communication</h4>
@@ -145,8 +142,8 @@ Chemical engineers are expected to have employment growth of more than 8 percent
 <p>Journalism and Mass Communication education at Vidyapith is aimed to create women professionals with ethical values to contribute to the society and lead the industry. Journalism and Mass Communication process helps to understand how different elements of communication provide new development in social, political and economic context. The curriculum offers a systematic progression of hands-on production work, conceptual skills and artistic expression required to become an accomplished media practitioners in a social and technological environment. It also includes various on-field activities like real-time news reporting, on-field  news coverage, industrial training, developing actual advertising campaigns etc.</p>
 
 [More Information](http://www.banasthali.org/banasthali/wcms/en/home/lower-menu/departments/journalism_masscomm/index.html;jsessionid=AD2DF6FE8EA88DE5D065D203FA8587E3)
-</div>
 
+</div>
 
 <div className="card card-body shadow mb-4">
 <h4 className="text-center border-bottom text-info">Department Of English & Modern European Languages</h4>
@@ -154,8 +151,8 @@ Chemical engineers are expected to have employment growth of more than 8 percent
 <p>The Department of English and MEL runs regular courses in English, French and German. Need based certificate courses in conversational English, German, French and Spanish are also part of the academic programmes of the department. It came into being  in 1943 with the introduction of B.A in English. The department started M.A. in English in 1963 and M.Phil.(ELT), still a rare course, in 1987. The doctoral work is performed both in literature and language. The department functions on an interdisciplinary approach and caters to the needs of scholars interested in the areas of Indian Literature, American Literature and Sanskrit Aesthetics. Modern European languages (French and German) are very popular among students. A fully equipped language laboratory fulfills the demands of autonomous learning of language.</p>
 
 [More Information](http://www.banasthali.org/banasthali/wcms/en/home/lower-menu/faculties/faculties-of-humanities/english/index.html)
-</div>
 
+</div>
 
 <div className="card card-body shadow mb-4">
 <h4 className="text-center boredr-bottom text-info">Department Of Legal Studies</h4>
@@ -169,8 +166,8 @@ Chemical engineers are expected to have employment growth of more than 8 percent
 <p>The Law School aims at preparing women legal professionals who will play decisive leadership roles, not only as advocates practicing in courts, but also as academicians, legislators, judges, policy makers, public officials, civil society activists, and legal counsels in the private sector, maintaining the highest standard of professional ethics and a spirit of public service. We are aware that legal education should also prepare professionals equipped to meet the new challenges and dimensions of internationalization, where the nature and organization of law and practice are undergoing a paradigm shift. At the same time, legal education must also be socially engaged and sensitize students to issues of social justice. New and innovative solutions are needed to ensure that common people have access to justice, and the legal ideas and legal knowledge protect their interests. Therefore, it is imperative that legal education should prepare students with the aptitude, interest, commitment, skills and knowledge necessary to work with socially excluded people and the poor at the grass-root level to advance the cause of justice.</p>
 
 [More Information](http://banasthali.org/banasthali/wcms/en/home/lower-menu/faculties/law/index.html)
-</div>
 
+</div>
 
 <div className="card card-body shadow mb-4">
 <h4 className="text-center border-bottom text-info">Department Of Hindi and Modern Indian Languages</h4>
@@ -178,8 +175,8 @@ Chemical engineers are expected to have employment growth of more than 8 percent
 <p>The Department of Hindi and Modern Indian Languages is one of the oldest departments of Banasthali. The mission of the department is to provide aesthetic, practical and moral education to the students by means of literature and language. The department in addition to offering Hindi as a foundation course  or an elective course at bachelor's level and postgraduate level also assists in  developing communication skills and in personality development by organizing seminars, workshops , debates and lecture and gives a platform to the research students aspiring for excellence.</p>
 
 [More Information](http://www.banasthali.org/banasthali/wcms/en/home/lower-menu/faculties/faculties-of-humanities/hindi/index.html)
-</div>
 
+</div>
 
 <div className="card card-body shadow mb-4">
 <h4 className="text-center border-bottom text-success">Department Of Earth Sciences</h4>
@@ -187,8 +184,8 @@ Chemical engineers are expected to have employment growth of more than 8 percent
 <p>The School of Earth Sciences, Banasthali Vidyapith comprises of four disciplines namely Geography, Remote Sensing, Geology and Environmental Science; offers leading education and carries out innovative research, using excellent facilities in an energetic, convivial and comprehensive environment. The school has high-quality infrastructure for classroom education and field studies in Earth Sciences. School focuses on understanding fundamental earth processes through field observations, survey, laboratory experiments and computational simulations. We aim to develop new dimensions in research and teaching through multidisciplinary interactions. School offers programmes at the under-graduate, post-graduate and doctoral level. School also encourages overall personality development of the students by conducting workshops, guest lectures, quiz competition, model-chart exhibition, debate/extempore and cultural activities as part of five-fold education.</p>
 
 [More Information](http://103.214.128.135/earthscience/)
-</div>
 
+</div>
 
 <div className="card card-body shadow mb-4">
 <h4 className="text-center border-bottom text-info">Department Of History And Indian Culture</h4>
@@ -198,8 +195,8 @@ Chemical engineers are expected to have employment growth of more than 8 percent
 <p>The Department has an integrated doctoral programme. It is reflected by the working of research scholars on art and architecture, environment, women, peasants, socio-economic and a host of other areas. The faculty members are also actively engeged in research; they have published research papers as well as presented these in the national and international seminars and conferences.</p>
 
 [More Information](http://www.banasthali.org/banasthali/wcms/en/home/lower-menu/faculties/social-science/history_indian_culture/index.html)
-</div>
 
+</div>
 
 <div className="card card-body shadow mb-4">
 <h4 className="text-center border-bottom text-danger">Department Of Mathematics & Statistics</h4>
@@ -208,11 +205,11 @@ Chemical engineers are expected to have employment growth of more than 8 percent
 
 <p>If we study Vedic Mathematics then we can find that the most important number 'Zero' was discovered in India. One of the important irrational like  'Pie' was discovered by the great Indian Mathematician Aryabhatte (476 - 550 AD), who was born in Patliputra in Magadh.</p>
 
-<p>Today there is no nobel prize in Mathematics but International Mathematical Union (IMU) offers Fields Medal once in every four years during International Congress of Mathematicians. (ICM) which is equivalant to nobel prize.</p> 
+<p>Today there is no nobel prize in Mathematics but International Mathematical Union (IMU) offers Fields Medal once in every four years during International Congress of Mathematicians. (ICM) which is equivalant to nobel prize.</p>
 
 [More Information](http://www.banasthali.org/banasthali/wcms/en/home/lower-menu/faculties/maths-app-comp-tech/maths/index.html)
-</div>
 
+</div>
 
 <div className="card card-body shadow mb-4">
 <h4 className="text-center border-bottom text-success">Department Of Home Science</h4>
@@ -223,8 +220,8 @@ Chemical engineers are expected to have employment growth of more than 8 percent
 The mission is to provide education, with a commitment to high quality, value based and holistic education responsive to the needs of the society and the country.</p>
 
 [More Information](http://banasthali.org/banasthali/wcms/en/home/lower-menu/faculties/home-science/index.html)
-</div>
 
+</div>
 
 <div className="card card-body shadow mb-4">
 <h4 className="text-center border-bottom text-danger">Department Of Performing Arts</h4>
@@ -232,8 +229,8 @@ The mission is to provide education, with a commitment to high quality, value ba
 <p>Established in 1943, The department of Music has been one of the oldest departments of Banasthali . It has the honor of having great personalities as its architects such as Raja Bhiya Poonchwale, S.C.E.R. Bhatt, Pt. Vinayak Rao Patwardhan and Narayan Rao Vyas. The department was the first to start M.A. Music (Vocal and Instrumental) under the headship of Prof. B.R. Deodhar and later the personalities like P.N. Chichore and N.V. Patwardhan have headed the department.</p>
 
 [More Information](http://www.banasthali.org/banasthali/wcms/en/home/lower-menu/faculties/fine-arts/dept_of_music_and_dance/index.html)
-</div>
 
+</div>
 
 <div className="card card-body shadow mb-4">
 <h4 className="text-center border-bottom text-success">Department Of Pharmacy</h4>
@@ -251,8 +248,8 @@ The mission is to provide education, with a commitment to high quality, value ba
 <p>In only few years the Department has established itself as a leading centre for Pharmaceutical Sciences education and have found a respectful place in the community of university institutions imparting Pharmacy education in India.</p>
 
 [More Information](http://www.banasthali.org/banasthali/wcms/en/home/lower-menu/faculties/life-sciences/dep-of-pharmacy/index.html)
-</div>
 
+</div>
 
 <div className="card card-body shadow mb-4">
 <h4 className="text-center border-bottom text-danger">Department Of Physical Education</h4>
@@ -260,8 +257,8 @@ The mission is to provide education, with a commitment to high quality, value ba
 <p>The Department of Physical Education  is well equipped with modern infrastructure and includes activities like Equestrian, Swimming, Flying, Riffle Shooting, Basketball, Volleyball, Badminton, TT, Cricket, Handball, Softball, Judo, Football, Netball, Athletics (track and field), Acrobatics, Martial Arts. Sports are in fact  a way of life  for the students conscious of health fitness and those looking for professional star status.  Physical education, a learning experience, offers a unique opportunity for problem - solving and self-expression and socialization. A well implemented, comprehensive programme is an essential component to the growth of both mind and body.</p>
 
 [More Information](http://www.banasthali.org/banasthali/wcms/en/home/lower-menu/faculties/faculty-of-education/dept-of-phy-edu-n-sports/index.html)
-</div>
 
+</div>
 
 <div className="card card-body shadow mb-4">
 <h4 className="text-center border-bottom text-danger">Department Of Physical Sciences</h4>
@@ -269,8 +266,8 @@ The mission is to provide education, with a commitment to high quality, value ba
 <p>The Department of Physical Sciences is one of the oldest in the Vidyapith. The PG programme in Physics as M.Sc.(Physics) started  in 2005. The courses are reviewed every year by Board of Studies and the faculty members. The faculty has recently recommended revision to give more visibility to Nanoscience and Technology. Therefore the courses on Nanotechnology is introduced as two elective courses one each in M.Sc. III and IV semesters respectively as “Physics of Nanostructures and Nanotechnology-I” and “Physics of Nanostructures and Nanotechnology-II”. This has been implemented from the session 2008-09.  The  M.Sc.(Physics) course is offered with specialization in Advance Communication, Nanotechnology, Condensed Matter Physics, Plasma Physics, High Energy Physics and Non-conventional energy resources.</p>
 
 [More Information](http://www.banasthali.org/banasthali/wcms/en/home/lower-menu/faculties/maths-app-comp-tech/physics/index.html)
-</div>
 
+</div>
 
 <div className="card card-body shadow mb-4">
 <h4 className="text-center border-bottom text-info">Department Of Political Science & Public Administration</h4>
@@ -284,8 +281,8 @@ The mission is to provide education, with a commitment to high quality, value ba
 <p>The main constituents of the curricula of Public Administration at undergraduate level are – Principles of Public Administration, Personnel and Financial Administration, Administrative Institutions and Comparative Administration, Emerging Trends in Public Administration and Public Administration at the local, state and national level in India.</p>
 
 [More Information](http://www.banasthali.org/banasthali/wcms/en/home/lower-menu/faculties/social-science/political/index.html)
-</div>
 
+</div>
 
 <div className="card card-body shadow mb-4">
 <h4 className="text-center border-bottom text-info">Department Of Psychology</h4>
@@ -293,8 +290,8 @@ The mission is to provide education, with a commitment to high quality, value ba
 <p>Psychology is a systematic and scientific study of human behavior. It deals with two critical relationships: the Brain Functions and Behavior and the Environment and Behavior. As scientists, psychologists follow scientific methods using careful observation, experimentation and analysis in a creative and innovative manner, evolving new approaches from established knowledge to meet changing challenges of people and societies. They develop theories and test them through their researches. They conduct both basic and applied researches in diversified fields and serve as consultants to communities and organizations. There are many subfields of psychology like Experimental, Quantitative, Social, Evolutionary, Developmental, Educational, Cognitive, Clinical, Counseling, Engineering, Forensic, Health, Industrial, Rehabilitation, Sports and Neuro Psychology to mention just a few.</p>
 
 [More Information](http://www.banasthali.org/banasthali/wcms/en/home/lower-menu/faculties/social-science/psychology/index.html)
-</div>
 
+</div>
 
 <div className="card card-body shadow mb-4">
 <h4 className="text-center border-bottom text-info">Department Of Sanskrit, Philosophy & Vedic Studies</h4>
@@ -302,20 +299,20 @@ The mission is to provide education, with a commitment to high quality, value ba
 <p>This department started functioning in 1943 with Bachelor's programmes. The postgraduate programmes were introduced after 1957. The department had such eminent scholars as Pt. Jaydevdev Vidyalankar, Shri Ramchandra Vaman Kumbhre, Prof. Praveen Chandra Jain, Pt. Jagdish Chandra Sharma, Prof. Ramesh Chandra Shastri, Prof. Shyama Bhatnagar, Prof. Chandra Kishore Goswami and Dr. Kusumlata Arya. They enriched the department with the great breadth of their learning and the depth of intense specialization. Their creative research made an impact upon the community of scholars and their high level of sustained efforts nourished the intellectual life inspired by their association with the faculties of other Universities. </p>
 
 [More Information](http://www.banasthali.org/banasthali/wcms/en/home/lower-menu/faculties/faculties-of-humanities/sanskrit/index.html)
-</div>
 
+</div>
 
 <div className="card card-body shadow mb-4">
 <h4 className="text-center border-bottom text-info">Department Of Sociology</h4>
 
 <p>Department of Sociology, one of the oldest departments, came into existence in Banasthali Vidyapith since its inception. The department has been offering courses at various levels since a very long time. The courses are designed to strike a balance between tradition and modernity. It aims to promote understanding among students on the contemporary complex patterns of social behaviour, thus enabling them to achieve success in their life.</p>
- 
+
 
 <p>The department offers courses at B.A., M.A. and M. Phil. level. There is also the provision of Ph. D. course under this department.  At UG level, apart from theoretical orientation students are also taught practical / behavioural subjects like mass communication, rural and urban sociology, social anthropology, research methodology, social demography etc. At the PG level, apart from core subjects, students are taught about new trends in sociology like sociology of health and medicine, globalization, popular culture and women studies etc.</p>
 
 [More Information](http://www.banasthali.org/banasthali/wcms/en/home/lower-menu/faculties/social-science/sociology/index.html)
-</div> 
 
+</div>
 
 <div className="card card-body shadow mb-4">
 <h4 className="text-center border-bottom text-danger">Department Of Design</h4>
@@ -323,9 +320,11 @@ The mission is to provide education, with a commitment to high quality, value ba
 <p>Textile Designing was first introduced as a subject in Bachelor's programme of Banasthali University. Thereafter a Post Graduate diploma was started. Increasing demand and popularity of the subject led the Vidyapith to start the postgraduate programme M.A. (Textile Designing) in the year 2005.</p>
 
 [More Information](http://www.banasthali.org/banasthali/wcms/en/home/lower-menu/faculties/fine-arts/dept_of_texttile_and_design/index.html)
+
 </div>
 
 \
+
 <div className="card card-body shadow mb-4">
 <h4 className="text-center border-bottom text-danger">Department Of Visual Arts</h4>
 
@@ -336,8 +335,8 @@ The mission is to provide education, with a commitment to high quality, value ba
 <p>Achieved through personal vision, self-direction, critical ability, technical knowledge and creative energy the students are encouraged to build the capacity of critical thinking and life long learning. The U.G. and P.G. level programmes expose the students to various art disciplines viz. -Drawing, Design, Life Study, Portrait, Painting, Printmaking, Mural Painting, Art Appreciation, Fundamentals of art (pictorial elements) and history of world art and aesthetics.</p>
 
 [More Information](http://www.banasthali.org/banasthali/wcms/en/home/lower-menu/faculties/fine-arts/dept_of_visual_arts/index.html)
-</div>
 
+</div>
 
 <div className="card card-body shadow mb-4">
 <h4 className="text-center border-bottom text-info">School of Architecture & Planning</h4>
@@ -354,25 +353,28 @@ The mission is to provide education, with a commitment to high quality, value ba
 
 <p>The main objectives of the B. Arch Program are:</p>
 
- >1.Empower women as professional architects, entrepreneurs, educators, etc.
+> 1.Empower women as professional architects, entrepreneurs, educators, etc.
 
- >2.Prepare students for contemporary architectural practices, keeping them deeply rooted in the Indian culture.
+> 2.Prepare students for contemporary architectural practices, keeping them deeply rooted in the Indian culture.
 
- >3.Enable students to connect to the global market trends in the field of architecture.
+> 3.Enable students to connect to the global market trends in the field of architecture.
 
- >4.Studio-based exercises to focus on Learning by Doing, to build up a high level of confidence in students.
+> 4.Studio-based exercises to focus on Learning by Doing, to build up a high level of confidence in students.
 
- >5.Prepare students as team leaders in the field of construction and allied activities.
+> 5.Prepare students as team leaders in the field of construction and allied activities.
 
- >6.The students will be motivated to prepare sustainable architectural design solutions, responding to socio-cultural, socio-economic, and environmental aspects.
- 
- >7.The students will be encouraged to carry out research-based activities, even for a small topic of their academic subject.
+> 6.The students will be motivated to prepare sustainable architectural design solutions, responding to socio-cultural, socio-economic, and environmental aspects.
 
- [More Information](http://www.banasthali.org/banasthali/wcms/en/home/lower-menu/departments/arch_and_planning/index.html;jsessionid=AD2DF6FE8EA88DE5D065D203FA8587E3)
+> 7.The students will be encouraged to carry out research-based activities, even for a small topic of their academic subject.
+
+[More Information](http://www.banasthali.org/banasthali/wcms/en/home/lower-menu/departments/arch_and_planning/index.html;jsessionid=AD2DF6FE8EA88DE5D065D203FA8587E3)
+
 </div>
 
 #### Map
+
 ![This is an image](../../images/Card9.6.jpg)
 
 #### Networking
+
 The entire University campus is networked through optical fibre and powerful layer 3 and layer 2 (managed & unmanaged) switches and Cisco 1700, 1800 and 2620 routers housed at the Apaji Institute. The network is secured through a hardware firewall. Presently Banasthali University has a 2 Mbps leased line Internet connectivity from BSNL, Jaipur, 4 Mbps from VSNL, 4 Mbps from Reliance Info and another 1 Gbps link to university under NMEICT project. The institute maintains its own mail server banasthali.ac.in and Lotus Domino based Internal Messaging System and connected to Banasthali Domino server through web. The University is the first in Rajasthan and perhaps the second in India to provide 24 hours Network and Internet access to all its PG students in their hostel rooms. This facility is now provided in 8 hostels. For this, the OFC is extended to the respective hostels. In addition the institute runs a lab of 70 Internet ready nodes to provide internet access to all students, researchers and faculty of Banasthali University.

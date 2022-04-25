@@ -5,7 +5,9 @@ author: "Let's Talk"
 description: "Interaction is the key as to how you'll be performing in your future."
 image: "Card5.jpg"
 ---
+
 # FAQ's
+
 <div className="card card-body shadow mb-4">
 Q. What is the placement record of the Banasthali B.Tech. CS course?
 <div className="text-primary">A. Banasthali is a very renowned University and has a good placement record especially for the students of CS and IT stream.
@@ -15,6 +17,7 @@ Q. What is the placement record of the Banasthali B.Tech. CS course?
 <p>So you get a good opportunity to showcase your skills and knowledge and get placed in good companies like Oracle, TCS, IBM,Accenture and many more.There are many more companies although i have mentioned only few of them!</p>
 
 For more information, visit Banasthali’s official website:www.banasthali.org
+
 </div>
 </div>
 
@@ -48,13 +51,13 @@ Q. When does the internship procedure start for B.Tech students in Banasthali?
 
 <p>You'll be asked to choose between three options -</p>
 
->Self
+> Self
 
->Through Banasthali
+> Through Banasthali
 
->In Banasthali i.e. internship in Automation Dept
+> In Banasthali i.e. internship in Automation Dept
 
->Choose self only when you're sure about you getting hired in that company for internship/training.
+> Choose self only when you're sure about you getting hired in that company for internship/training.
 
 <p>Choosing through Banasthali gets you pretty good chances of getting a good company.</p>
 
@@ -68,17 +71,17 @@ Q. What is the procedure of admission in Banasthali University?
 
 <p>1.Its depend on for which course you will apply.</p>
 
->2.For some course to qualify entrance Exam Is Mandatory like B.tech, Bio.tech, MCA, M-tech ,Bca, Bsc bioscience,B.des etc.
+> 2.For some course to qualify entrance Exam Is Mandatory like B.tech, Bio.tech, MCA, M-tech ,Bca, Bsc bioscience,B.des etc.
 
->3.Entrance exam centre are Banasthali (Newai), Delhi, Jaipur etc.
+> 3.Entrance exam centre are Banasthali (Newai), Delhi, Jaipur etc.
 
->4.For some course you just have to fill the form afterwards they will call you for counselling , Which will take place in the last week of June or first week of July most probably.
+> 4.For some course you just have to fill the form afterwards they will call you for counselling , Which will take place in the last week of June or first week of July most probably.
 
->5.You should have ready your all documents before admission like transfer certificate , marksheets , passport size photographs ( You and your parents also) , Aadhar Card , Pan card ,and other
+> 5.You should have ready your all documents before admission like transfer certificate , marksheets , passport size photographs ( You and your parents also) , Aadhar Card , Pan card ,and other
 
->6.Through NRI quota also few students take admission in every course but fees is little bit higher for them as compare to other students.
+> 6.Through NRI quota also few students take admission in every course but fees is little bit higher for them as compare to other students.
 
->7.Form is available offline as well as online. Last date of submission of form is 30th April. But you can submit your form with late fees (Extra Charges) till 2nd week of may.
+> 7.Form is available offline as well as online. Last date of submission of form is 30th April. But you can submit your form with late fees (Extra Charges) till 2nd week of may.
 
 </div>
 </div>
@@ -115,7 +118,6 @@ Q. What is the medium of instruction?
 </div>
 </div>
 
-
 <div className="card card-body shadow mb-4">
 Q. Does Banasthali offer distance learning program?
 <div className="text-primary">A. 	
@@ -123,13 +125,11 @@ Banasthali Vidyapith does not offer any program under distance learning.
 </div>
 </div>
 
-
 <div className="card card-body shadow mb-4">
 Q. Does Banasthali Vidyapith provide Scholarship?
 <div className="text-primary">A. Yes, there are many schemes helping students financially such as scholarships, for details please see  Financial Assistance.
 </div>
 </div>
-
 
 <div className="card card-body shadow mb-4">
 Q. Can I study courses in Dance/Horse Riding/Gliding & Flying?
@@ -184,6 +184,7 @@ Q. How does one apply?
 <div className="text-primary">A. The admission forms are normally available in the month of February onwards. The admission advertisements appear in the National and Regional Newspapers where all the details are given. You could get the form by sending Rs. 800/- by demand draft to The Secretary, Banasthali Vidyapith or paying cash Rs. 800/- in person and send the duly filled form by the Last Date given in the Admission Notice.Online Submission of application is also possible at the Banasthali Vidyapith's website.
 
 For detail please see the [ADMISSIONS](http://www.banasthali.org/banasthali/admissions/) link of the website.
+
 </div>
 </div>
 

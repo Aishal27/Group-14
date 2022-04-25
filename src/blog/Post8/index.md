@@ -5,7 +5,9 @@ author: "Celebrations"
 description: "Apaji Mela marks Banasthali Founder Hirlalal Shastri Birthday Grand Celebrations"
 image: "Card8.jpg"
 ---
-# *Apaji Mela*
+
+# _Apaji Mela_
+
 With students coming from different parts of India, the 850 acre Campus Banasthali today with 16000 students itself is a mini India echoing the lines of Gurudev Rabindranath Tagore in National anthem “Panjaba-Sindhu-Gujarata-Maratha Dravida-Utkala-Banga.”
 
 The evolution of Banasthali is nothing short of a fairy tale in which the parents freedom fighter and Gandhian Pt Hiralal Shastri and Padma Bhushan & Jamnalal Babaj Award winner Smt Ratan Shastri took up the mission with passion for setting up an institution at Banasthali to fulfill the desire of their beloved daughter Shantabai who died at a very young age but had sown the seeds of a school built with mud bricks made by her own hands for educating girls.
@@ -28,5 +30,6 @@ The students and faculty who attended and participated in Apaji birthday celebra
 
 For more details about Banasthali see Website: http://www.banasthali.org , Facebook: www.facebook.com/Banasthali.org
 
-#### About Banasthali: 
+#### About Banasthali:
+
 Established in 1935, the Institution which is also the largest fully residential women’s university in the world has played a big role in revolutionizing women’s education and empowerment in India for the last eight decades. Banasthali has scripted numerous success stories in a wide range of fields, and stands tall among the citadels of learning in India today. Proud to be Banasthali alumni who call themselves as Banasthalites can be found in all latitudes, longitudes and altitudes in all walks of life across the globe.

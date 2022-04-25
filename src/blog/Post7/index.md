@@ -5,9 +5,10 @@ author: "Learning Curves"
 description: "Offers a host of Certificate & Diploma programmes managed by various faculties & departments."
 image: "Card7.jpg"
 ---
- *<div className="text-warning">A brief overview of each of them is given here :</div>*
 
-## *Certificate & Diploma Programmes*
+_<div className="text-warning">A brief overview of each of them is given here :</div>_
+
+## _Certificate & Diploma Programmes_
 
 Certificate in English for Conversation (Elementary)
 
@@ -23,11 +24,11 @@ Certificate in Sanskrit
 
 Certificate in Dance Prathama (Kathak / Manipuri/ Bharatnatyam)
 
-Certificate in  Dance Madhyama (Kathak / Manipuri/ Bharatnatyam)
+Certificate in Dance Madhyama (Kathak / Manipuri/ Bharatnatyam)
 
-Certificate in Music Prathama  (Vocal/ Instrumental-Sitar/ Sarod/ Violin/ Guitar/Tabla)
+Certificate in Music Prathama (Vocal/ Instrumental-Sitar/ Sarod/ Violin/ Guitar/Tabla)
 
-Certificate in Music Madhyama  (Vocal/ Instrumental-Sitar/ Sarod/Violin/ Guitar/Tabla)
+Certificate in Music Madhyama (Vocal/ Instrumental-Sitar/ Sarod/Violin/ Guitar/Tabla)
 
 Certificate in French
 
@@ -44,7 +45,6 @@ Certificate in Shibori (Tie & Dye) / Dyeing & Painting/ Surface, Ornamentations/
 Certificate in E-Commerce
 
 Certificate in Radio Production (RJing & Anchoring)
-
 
 Certificate in Android Application Development
 

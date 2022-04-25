@@ -19,11 +19,11 @@ const Items = [
     linkedin: "https://www.linkedin.com/in/aishal-khan-806116238",
   },
   {
-     image: "Laiba Afsar",
-     name: "Laiba Afsar",
-     facebook: "https://www.facebook.com",
-     instagram: "https://www.instagram.com",
-     linkedin: "https://www.linkedin.com/in/laiba-afsar-19a26417b/",
+    image: "Laiba Afsar",
+    name: "Laiba Afsar",
+    facebook: "https://www.facebook.com",
+    instagram: "https://www.instagram.com",
+    linkedin: "https://www.linkedin.com/in/laiba-afsar-19a26417b/",
   },
   {
     image: "Shambhavi",
