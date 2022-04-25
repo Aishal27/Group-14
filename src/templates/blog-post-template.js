@@ -87,7 +87,7 @@ const BlogPostTemplate = ({ data, pageContext }) => {
               <h3 className="m-3">{mdx.frontmatter.author}</h3>
 
               <ul class="list-unstyled justify-content-center d-flex">
-                <Link to="">
+                <Link to="https://www.facebook.com/banasthali.org/?ti=as">
                   <Facebook class="m-2" size="20" />
                 </Link>
                 <Link to="">

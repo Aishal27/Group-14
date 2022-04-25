@@ -8,7 +8,7 @@ const Header = () => {
       aria-label="Fifth navbar example"
     >
       <div class="container-fluid">
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="/">
           Definitive Guide To College Collections
         </a>
         <button

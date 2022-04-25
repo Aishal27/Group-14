@@ -8,8 +8,8 @@ const Items = [
     image: "Aditi Singh",
     name: "Aditi Singh",
     facebook: "https://www.facebook.com",
-    instagram: "https://www.instagram.com",
-    linkedin: "https://www.linkedin.com",
+    instagram: "https://www.instagram.com/invites/contact/?i=qn2cn6zzqm45&utm_content=38bz8zt",
+    linkedin: "https://www.linkedin.com/in/aditi-singh-4236811a9",
   },
   {
     image: "Aishal Khan",
@@ -22,7 +22,7 @@ const Items = [
     image: "Laiba Afsar",
     name: "Laiba Afsar",
     facebook: "https://www.facebook.com",
-    instagram: "https://www.instagram.com",
+    instagram: "https://instagram.com/lavi201200?igshid=YmMyMTA2M2Y=",
     linkedin: "https://www.linkedin.com/in/laiba-afsar-19a26417b/",
   },
   {
