@@ -373,7 +373,7 @@ The mission is to provide education, with a commitment to high quality, value ba
 
 #### Map
 
-![This is an image](../../images/Card9.6.jpg)
+![This is an image](../../images/Card9.3.jpg)
 
 #### Networking
 
