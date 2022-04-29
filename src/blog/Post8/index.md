@@ -2,7 +2,7 @@
 title: "Fest"
 date: "8th March 2022"
 author: "Celebrations"
-description: "Apaji Mela marks Banasthali Founder Hirlalal Shastri Birthday Grand Celebrations"
+description: "Apaji Mela marks Banasthali Founder Hirlalal Shastri Birthday Grand Celebrations."
 image: "Card8.jpg"
 ---
 

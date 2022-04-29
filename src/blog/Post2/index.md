@@ -2,7 +2,7 @@
 title: "Travel"
 date: "2nd March 2022"
 author: "Travel Guide"
-description: " Find all the transport options for your trip to Banasthali Vidyapith right here"
+description: " Find all the transport options for your trip to Banasthali Vidyapith right here."
 image: "Card2.jpg"
 ---
 
